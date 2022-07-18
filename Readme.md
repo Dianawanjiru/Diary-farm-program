@@ -5,7 +5,7 @@
 :heavy_multiplication_x: Description of the program<br>
 :heavy_multiplication_x: Built with<br>
 :heavy_multiplication_x: Getting started<br>
-:heavy_multiplication_x: installation<br>
+:heavy_multiplication_x: installation/setup<br>
 :heavy_multiplication_x: Contributors<br>
 :heavy_multiplication_x: References<br>
 :heavy_multiplication_x: Contacts<br>
@@ -37,11 +37,11 @@ A computer devise, iphone, android phone to get you started.
 
 
 
-## INSTALLATION
-Istall on a phone by: open google playstore, type agriplus-website and click on the one with our logo provided
-install on computer :Open microsoft store, search for this app with our logo, click install button.
+## INSTALLATION/SETUP
+copy the url on arrow down
+Clone on your computer
+Go live or start your server
 
-View Live Demo using this link https://dianawanjiru.github.io/Diary-farm-program/
 
 ## CONTRIBUTORS
 Diana wanjiru
