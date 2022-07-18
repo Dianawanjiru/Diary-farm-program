@@ -16,7 +16,13 @@
 
 
 ## ABOUT THE PROJECT:
-Can we all agree that the world is currently turning upside down with the whole Covid 19 pandemic going on! If there is something that this pandemic has taught us is that we can be able to do alot of shopping online, including farm products. Who has the time to go to the market, risk being infected with corona virus and waste alot of time with the sorting of products?No one i guess. My project (which is a website) is meant to help connect  buyers with sellers and directly where they can engage in this online platform. This will help all of us save alot of time and keep us safe from the virus.
+You just landed yourself a great deal and acquired a farm upcountry that has dairy cattle. These cows are well fed and they produce a fair amount of milk every day. Luckily, Brookside Dairies has also called you in, for yet another deal to sell your milk produce to them for processing. There's one problem though, you're very engaged in a website consultation company which leaves very little time for you to monitor milk production at your farm.
+
+Your cows will make you rich if you monitor their milk production and sale, and you have skills to build a program with JavaScript, that helps you monitor production and sales. Here's a document of what you have on your farm. Assume that this is a day's production
+
+Brookside Dairies has signed a contract with you to buy milk at Ksh.45 per litre for one year.:
+
+
 
 ## BUILT WITH
 This website is entirely built with:
