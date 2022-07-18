@@ -1,7 +1,7 @@
 
 ## TABLE OF CONTENTS
 
-
+:heavy_multiplication_x: Project name<br>
 :heavy_multiplication_x: Description of the program<br>
 :heavy_multiplication_x: Built with<br>
 :heavy_multiplication_x: Getting started<br>
@@ -13,7 +13,8 @@
 
 
 
-
+## PROJECT NAME:
+Dairy Farm Program
 
 ## DESCRIPTION OF THE PROGRAM:
 You just landed yourself a great deal and acquired a farm upcountry that has dairy cattle. These cows are well fed and they produce a fair amount of milk every day. Luckily, Brookside Dairies has also called you in, for yet another deal to sell your milk produce to them for processing. There's one problem though, you're very engaged in a website consultation company which leaves very little time for you to monitor milk production at your farm.
